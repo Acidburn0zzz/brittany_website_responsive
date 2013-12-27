@@ -4,9 +4,13 @@ body {
   background: #8C001A;
 }
 
-a {
+a { 
   color: #4FB69F;
   text-decoration: none;
+}
+
+img {
+  max-width: 100%;
 }
 
 h1 {
@@ -23,8 +27,8 @@ h2 {
 .btn {
   color: #000000;
   background: #CCAC00;
-  padding: 15px 30px;
-  margin: 40px 0px;
+  padding: 2% 4%;
+  margin: 5.3333% 0%;
   border-radius: 25px;
   text-transform: uppercase;
 }
@@ -35,14 +39,14 @@ h2 {
 }
 
 ul.nav {
-  margin: 120px 0 0 0;
+  margin: 18.181818% 0 0 0;
   list-style: none;
   float: right;
 }
 
 ul.nav li {
   float: left;
-  margin-right: 40px;
+  margin-right: 6.0606%;
 }
 
 ul.nav li a {
@@ -50,30 +54,32 @@ ul.nav li a {
 }
 
 #intro {
-  margin: 50px 10px 75px 0;
+  margin: 6.75% 1.35% 10.135% 0; 
 }
 
 #loves img {
-  border: 8px dotted #CCAC00;
-  margin: 20px 0 0 0;
+  border: dotted #CCAC00;
+  border-width: 1.212%;
+  margin: 4.938% 0 0 0;
 }
 
 #quirk img {
-  border: 8px dotted #CCAC00;
-  margin: 20px 0 0 0;
+  border: dotted #CCAC00;
+  border-width: 1.391%;
+  margin: 2.702% 0 0 0;
 }
 
 #copyright {
-  border-top: 8px solid #2A0400;
-  padding: 10px 0px;
-  margin: 15px 0px;
+  border-top: solid #2A0400;
+  border-top-width: 0.8%;
+  padding: 1% 0%; 
+  margin: 1.5% 0%;
   text-align: center;
 }
 
 .grid_4 {
-  margin-top: 35px;
+  margin-top: 10.9375%;
 }
-
 
 
 
