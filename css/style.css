@@ -1,0 +1,91 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+  background: #8C001A;
+}
+
+a {
+  color: #4FB69F;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.600em;
+  letter-spacing: -1.5px;
+  color: #CCAC00;
+}
+
+h2 {
+  font-size: 1.500em;
+  color: #CCAC00;
+}
+
+.btn {
+  color: #000000;
+  background: #CCAC00;
+  padding: 15px 30px;
+  margin: 40px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: #000000;
+  color: #CCAC00;
+}
+
+ul.nav {
+  margin: 120px 0 0 0;
+  list-style: none;
+  float: right;
+}
+
+ul.nav li {
+  float: left;
+  margin-right: 40px;
+}
+
+ul.nav li a {
+  color: #FAF3BC;
+}
+
+#intro {
+  margin: 50px 10px 75px 0;
+}
+
+#loves img {
+  border: 8px dotted #CCAC00;
+  margin: 20px 0 0 0;
+}
+
+#quirk img {
+  border: 8px dotted #CCAC00;
+  margin: 20px 0 0 0;
+}
+
+#copyright {
+  border-top: 8px solid #2A0400;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+.grid_4 {
+  margin-top: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
