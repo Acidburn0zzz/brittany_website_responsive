@@ -81,6 +81,93 @@ ul.nav li a {
   margin-top: 10.9375%;
 }
 
+/*media queries*/
+/* iPhone ------------------- */
+@media screen and (max-width: 480px) {
+  .grid_1,
+  .grid_2,
+  .grid_3,
+  .grid_4,
+  .grid_5,
+  .grid_6,
+  .grid_7,
+  .grid_8,
+  .grid_9,
+  .grid_10,
+  .grid_11,
+  .grid_12 {
+    width: 100%;
+  }
+
+  #nav ul li a {
+    -webkit-user-select: none;
+    font-size: 0.750em;
+  }
+  #nav ul li {
+    float: left;
+    margin: 5% 0;
+  }
+  #about_photo img{
+    display: none;
+  }
+  #quirk, #loves {
+    margin: 5% 0;
+  }
+  #loves img {
+    max-width: 95%;
+  }
+
+  #logo {
+    max-width: 100%;
+  }
+  ul.nav {
+  margin: 3% 0 0 0;
+  float: left;
+  }
+}
+
+/* iPad ----------- */
+@media screen and (max-width: 1100px) {
+  .grid_1,
+  .grid_2,
+  .grid_3,
+  .grid_4,
+  .grid_5,
+  .grid_6,
+  .grid_7,
+  .grid_8,
+  .grid_9,
+  .grid_10,
+  .grid_11,
+  .grid_12 {
+    width: 100%;
+  }
+
+  #nav ul li a {
+    font-size: 0.750em;
+  }
+  #nav ul li {
+    float: left;
+    margin: 5% 0;
+  }
+  #about_photo img{
+    display: none;
+  }
+  #quirk, #loves {
+    margin: 5% 0;
+  }
+
+  #logo {
+    max-width: 100%;
+  }
+  #intro {
+    max-width: 100%;
+  }
+  ul.nav {
+  margin: 3% 0 0 0;
+  float: left;
+}
+}
 
 
 
